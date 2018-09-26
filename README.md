@@ -16,4 +16,6 @@ Here is an example list of technologies you can use, you may choose any technolo
 
 To submit this project, commit your work on a branch and push it up to this repository. In addition to the code, your commit should include a description of the approach taken and the reason for the approach and instructions on how to execute the program.
 
+To get commit access to this project, send an email to  michel @ plastiq dot com with your github username.
+
 *Happy Coding :)*
